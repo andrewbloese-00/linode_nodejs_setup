@@ -9,3 +9,7 @@ sudo apt-get install npm -y
 n install 20.10.0
 n use 20.10.0
 
+echo "Finished Installing Updates Upgrades and Node. Will now exit session. Reconnect over ssh for changes to reflect."
+
+logout
+
